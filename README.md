@@ -5,5 +5,6 @@
 3. Create READ.me
 4. git add READ.me
 5. git commit READ.me
+5.5 magic
 6. git add remote origin
 7. git push
